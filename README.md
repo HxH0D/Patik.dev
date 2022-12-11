@@ -1,2 +1,2 @@
 # Patik.dev
-<h2> c#101 Degisken Dersi Ödevi </h2>
+<h2> Patika.dev </h2>
