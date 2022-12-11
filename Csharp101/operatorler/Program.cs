@@ -59,7 +59,7 @@ namespace operatorler{
 //////////////////////////////////////////////////////////////////////////////////////////////////
             Console.WriteLine("//////////////");
             // Aritmetik Öperatörler
-            // /, +, -, *, %
+            // /, +, -, *, %, ++,--
 
             int sayi1=15;
             int sayi2=5;
@@ -74,6 +74,10 @@ namespace operatorler{
             sonuc=sayi1*sayi2;// * çarpma peratoru sayı1 ve sayı2 yi çarpar
             Console.WriteLine(sonuc);
             sonuc=sayi1%sayi2;// % modalma operatörü sayı1 i sayı2 ye böler ve kalannı verir
+            Console.WriteLine(sonuc);
+            sonuc=sayi1++;// % modalma operatörü sayı1 i 1 artırır
+            Console.WriteLine(sonuc);
+            sonuc=sayi1--;// % modalma operatörü sayı1 i 1 azaltır
             Console.WriteLine(sonuc);
 
         }
