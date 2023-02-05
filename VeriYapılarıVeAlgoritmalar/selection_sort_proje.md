@@ -1,14 +1,15 @@
- Insertion Sort
+## Insertion Sort Proje
 
 ## [22,27,16,2,18,6]-->  Insertion Sort
 
    Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
-
-   1. Aşama [ 22,27,16,2,18,6]
-   2. Aşama [ 16,22,27,2,18,6]
-   3. Aşama [ 2,16,22,27,18,6]
-   4. Aşama [ 2,6,16,22,27,18]
-   5. Aşama [ 2,6,16,18,22,27]
+   Aşamalar | Gösterim
+   -- | --
+   1. Aşama |[ **22**,**27**,16,2,18,6]
+   2. Aşama |[ **16**,**22**,**27**,2,18,6]
+   3. Aşama |[ **2**,**16**,**22**,**27**,18,6]
+   4. Aşama |[ **2**,**16**,**22**,**27**,**18**,6]
+   5. Aşama |[ **2**,**16**,**22**,**27**,**18**,**6**]
 
 
 ## Big-O gösterimini yazınız.
