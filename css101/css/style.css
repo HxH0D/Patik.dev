@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.head {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    flex-direction: column;
+    color: red;
+}
+.nav{
+    display: flex;
+    justify-content: center;
+}
+.link1{
+    margin: 10px;
+    text-decoration: none;
+    color: blue;
+}
+.link1:hover { 
+    color: black;
+    text-decoration: underline;
+}
+.link2{
+    text-decoration: none;
+    color: blue;
+}
+.link2:hover{
+    text-decoration: underline;
+    color: black;
+}
+.content{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+h4{
+    color: rgb(92, 92, 0);
+}
+
